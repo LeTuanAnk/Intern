@@ -1,0 +1,11 @@
+
+Thông tin của ens33:
+inet addr: 192.168.106.131
+Bcast: 192.168.106.255
+Mask: 255.255.255.0
+inet6 addr: fe80::2329:e82a:1a4a:609b/64
+
+Thông tin của lo:
+inet addr: 127.0.0.1
+Mask: 255.0.0.0
+inet6 addr: ::1/128
