@@ -1,0 +1,264 @@
+{
+	"Interfaces": [{
+			"ID": "1",
+			"Name": "br0",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "192.168.1.1",
+			"Bcast": "192.168.1.255",
+			"Mask": "255.255.255.0",
+			"IPv6": "fe80::1/64",
+			"Status": "UP"
+		}, {
+			"ID": "2",
+			"Name": "br1",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "192.168.2.1",
+			"Bcast": "192.168.2.255",
+			"Mask": "255.255.255.0",
+			"IPv6": "fe80::1/64",
+			"Status": "UP"
+		}, {
+			"ID": "3",
+			"Name": "br3",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "fe80::1/64",
+			"Status": "UP"
+		}, {
+			"ID": "4",
+			"Name": "eth0",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "5",
+			"Name": "eth0.1",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "6",
+			"Name": "eth0.2",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "7",
+			"Name": "eth0.3",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "8",
+			"Name": "eth0.4",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "9",
+			"Name": "ip6tnl0",
+			"MAC Address": "00-00-00-00-00-00",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "10",
+			"Name": "lo",
+			"MAC Address": "",
+			"IPv4": "127.0.0.1",
+			"Bcast": "",
+			"Mask": "255.0.0.0",
+			"IPv6": "::1/128",
+			"Status": "UP"
+		}, {
+			"ID": "11",
+			"Name": "nas0",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "10.84.22.6",
+			"Bcast": "10.84.22.255",
+			"Mask": "255.255.255.0",
+			"IPv6": "fe80::a6f4:c2ff:fe0b:6f50/64",
+			"Status": "UP"
+		}, {
+			"ID": "12",
+			"Name": "nas1",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "fe80::a6f4:c2ff:fe0b:6f51/64",
+			"Status": "UP"
+		}, {
+			"ID": "13",
+			"Name": "oam",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "14",
+			"Name": "omci",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "15",
+			"Name": "pon",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "16",
+			"Name": "ppp1",
+			"MAC Address": "",
+			"IPv4": "123.16.5.172",
+			"Bcast": "",
+			"Mask": "255.255.255.255",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "17",
+			"Name": "ra0",
+			"MAC Address": "A4:F4:C2:0B:6F:50",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "18",
+			"Name": "ra1",
+			"MAC Address": "A6:F4:C2:5B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "19",
+			"Name": "ra2",
+			"MAC Address": "A6:F4:C2:6B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "20",
+			"Name": "ra3",
+			"MAC Address": "A6:F4:C2:7B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "21",
+			"Name": "rai0",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "22",
+			"Name": "rai1",
+			"MAC Address": "A6:F4:C2:1B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "23",
+			"Name": "rai2",
+			"MAC Address": "A6:F4:C2:2B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "UP"
+		}, {
+			"ID": "24",
+			"Name": "rai3",
+			"MAC Address": "00:00:00:00:00:00",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "25",
+			"Name": "sit0",
+			"MAC Address": "00-00-00-00-40-E8",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "26",
+			"Name": "wdsi0",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "27",
+			"Name": "wdsi1",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "28",
+			"Name": "wdsi2",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}, {
+			"ID": "29",
+			"Name": "wdsi3",
+			"MAC Address": "A4:F4:C2:0B:6F:51",
+			"IPv4": "",
+			"Bcast": "",
+			"Mask": "",
+			"IPv6": "",
+			"Status": "DOWN"
+		}]
+}
